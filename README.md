@@ -43,7 +43,7 @@ ex. Github, 블로그, 티스토리 등등
 예시))
 |이름|목표|인증|
 |----------|---------|----------|
-|졔|주3개알기로즘풀기|[Github 링크](https://github.com/jeehge/HackerRank)|
+|졔|주3개알고리즘풀기|[Github 링크](https://github.com/jeehge/HackerRank)|
 
 
 ### 출석부
