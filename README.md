@@ -69,4 +69,6 @@ ex. Github, 블로그, 티스토리 등등
 |지혜|매일 알고리즘 문제 풀기 시도 (3개만 성공해도 목표 달성)|[Github 링크](https://github.com/jeehge/HackerRank)|
 |태원|목표|[Github 링크](https://github.com/NowEatS/HackerRank/tree/main)|
 |재웅|목표|[Github 링크](https://github.com/sustainable-git/Coding-Test)| 
+|윤환|목표|[티스토리 링크](https://younhwan.tistory.com/)| 
+
 
