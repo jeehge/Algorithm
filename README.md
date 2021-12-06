@@ -71,6 +71,7 @@ ex. Github, 블로그, 티스토리 등등
 |재웅|목표|[Github 링크](https://github.com/sustainable-git/Coding-Test)| 
 |윤환|목표|[티스토리 링크](https://younhwan.tistory.com/)| 
 |재은| [HackrRank](https://www.hackerrank.com/domains/algorithms) 일주일에 1문제 이상~|[Github 링크](https://github.com/Jae-eun/Algorithm)| 
+|상호| [HackrRank](https://www.hackerrank.com/domains/algorithms) 최소 주 3문제 이상 시도, 2 문제 이상 풀이 목표|[Github 링크](https://github.com/97chos/Algorithm)| 
 
 <br>
 
