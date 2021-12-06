@@ -62,7 +62,7 @@ ex. Github, 블로그, 티스토리 등등
 
 <br>
 
-### 출석부
+### 목표와 인증장소
 
 |이름|목표|인증|
 |----------|---------|----------|
@@ -71,4 +71,8 @@ ex. Github, 블로그, 티스토리 등등
 |재웅|목표|[Github 링크](https://github.com/sustainable-git/Coding-Test)| 
 |윤환|목표|[티스토리 링크](https://younhwan.tistory.com/)| 
 |재은| [HackrRank](https://www.hackerrank.com/domains/algorithms) 일주일에 1문제 이상~|[Github 링크](https://github.com/Jae-eun/Algorithm)| 
+
+<br>
+
+### 출석부
 
