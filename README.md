@@ -69,10 +69,10 @@ ex. Github, 블로그, 티스토리 등등
 |지혜|매일 알고리즘 문제 풀기 시도 (3개만 성공해도 목표 달성)|[Github 링크](https://github.com/jeehge/HackerRank)|
 |태원|문제 주3회 풀기|[Github 링크](https://github.com/NowEatS/HackerRank/tree/main)|
 |재웅|주 1회 이상 프로그래머스 |[Github 링크](https://github.com/sustainable-git/Coding-Test)|
-|윤환|[HackrRank](https://www.hackerrank.com/domains/algorithms) 일주일에 2문제 이상|[티스토리 링크](https://younhwan.tistory.com/)| 
+|윤환|[HackrRank](https://www.hackerrank.com/domains/algorithms) 일주일에 2문제 이상|[Github 링크](https://github.com/yunan2/HackerRank)| 
 |재은|[HackrRank](https://www.hackerrank.com/domains/algorithms) 일주일에 1문제 이상~|[Github 링크](https://github.com/Jae-eun/Algorithm)| 
 |상호|[HackrRank](https://www.hackerrank.com/domains/algorithms) 최소 주 3문제 이상 시도, 2 문제 이상 풀이 목표|[Github 링크](https://github.com/97chos/Algorithm)| 
-|가람|일주일에 2문제 이상 |[Github 링크](https://github.com/gr-kim-94)| 
+|가람|일주일에 2문제 이상 |[Github 링크](https://github.com/gr-kim-94/HackerRank)| 
 
 <br>
 
