@@ -10,3 +10,5 @@ import Foundation
 protocol ResultPresentable: AnyObject {
     func resultPrint()
 }
+
+soultion2557().resultPrint()
