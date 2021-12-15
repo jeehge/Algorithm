@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E9140A42276632D10004C1E8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9140A41276632D10004C1E8 /* main.swift */; };
 		E9C3AE7C276A1DCF003153E7 /* 2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE7B276A1DCF003153E7 /* 2557.swift */; };
+		E9C3AE7E276A213B003153E7 /* 10718.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE7D276A213B003153E7 /* 10718.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		E9140A3E276632D10004C1E8 /* BaekJoonStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekJoonStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9140A41276632D10004C1E8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E9C3AE7B276A1DCF003153E7 /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
+		E9C3AE7D276A213B003153E7 /* 10718.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10718.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				E9C3AE7B276A1DCF003153E7 /* 2557.swift */,
+				E9C3AE7D276A213B003153E7 /* 10718.swift */,
 			);
 			name = "입출력과사칙연산";
 			path = "입출력과 사칙연산";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9C3AE7E276A213B003153E7 /* 10718.swift in Sources */,
 				E9C3AE7C276A1DCF003153E7 /* 2557.swift in Sources */,
 				E9140A42276632D10004C1E8 /* main.swift in Sources */,
 			);
