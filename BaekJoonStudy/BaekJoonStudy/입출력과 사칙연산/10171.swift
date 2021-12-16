@@ -9,12 +9,6 @@ import Foundation
 
 class soultion10171: ResultPresentable {
     func resultPrint() {
-        let cat = #"""
-             \    /\
-              )  ( ')
-             (  /  )
-              \(__)|
-            """#
-        print(cat)
+        print("\\    /\\\n )  ( ')\n(  /  )\n \\(__)|")
     }
 }
