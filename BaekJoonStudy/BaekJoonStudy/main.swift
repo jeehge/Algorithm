@@ -17,4 +17,5 @@ protocol ResultPresentable: AnyObject {
 //solution1001().resultPrint()
 //solution10998().resultPrint()
 //solution1008().resultPrint()
-solution10869().resultPrint()
+//solution10869().resultPrint()
+solution10430().resultPrint()
