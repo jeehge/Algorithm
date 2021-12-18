@@ -7,7 +7,7 @@
 
 import Foundation
 
-class soultion10718: ResultPresentable {
+class solution10718: ResultPresentable {
     func resultPrint() {
         print("강한친구 대한육군\n강한친구 대한육군")
     }

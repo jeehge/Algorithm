@@ -11,9 +11,10 @@ protocol ResultPresentable: AnyObject {
     func resultPrint()
 }
 
-//soultion2557().resultPrint()
-//soultion10171().resultPrint()
+//solution2557().resultPrint()
+//solution0171().resultPrint()
 //solution1000().resultPrint()
 //solution1001().resultPrint()
 //solution10998().resultPrint()
-solution1008().resultPrint()
+//solution1008().resultPrint()
+solution10869().resultPrint()

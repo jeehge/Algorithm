@@ -7,7 +7,7 @@
 
 import Foundation
 
-class soultion2557: ResultPresentable {
+class solution2557: ResultPresentable {
     func resultPrint() {
         print("Hello World!")
     }

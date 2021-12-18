@@ -7,7 +7,7 @@
 
 import Foundation
 
-class soultion10171: ResultPresentable {
+class solution10171: ResultPresentable {
     func resultPrint() {
         print("\\    /\\\n )  ( ')\n(  /  )\n \\(__)|")
     }
