@@ -9,8 +9,8 @@ import Foundation
 
 class solution10998: ResultPresentable {
     func resultPrint() {
-        let line = readLine()!
-        let intArr = line.components(separatedBy: " ").map { Int($0)! }
-        print(intArr.reduce(1, *))
+        let input = readLine()!
+        let inputArr = input.split(separator: " ").map { Int($0)! }
+        print(inputArr.reduce(1, *))
     }
 }

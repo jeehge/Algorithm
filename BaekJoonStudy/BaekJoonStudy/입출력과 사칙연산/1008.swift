@@ -9,8 +9,8 @@ import Foundation
 
 class solution1008: ResultPresentable {
     func resultPrint() {
-        let line = readLine()!
-        let intArr = line.components(separatedBy: " ").map { Double($0)! }
-        print(intArr[0] / intArr[1])
+        let input = readLine()!
+        let inputArr = input.split(separator: " ").map { Double($0)! }
+        print(inputArr[0] / inputArr[1])
     }
 }
