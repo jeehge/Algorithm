@@ -19,6 +19,7 @@
 		E9C3AE8C276DB3C3003153E7 /* 10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8B276DB3C3003153E7 /* 10869.swift */; };
 		E9C3AE8E276DDE3D003153E7 /* 10430.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8D276DDE3D003153E7 /* 10430.swift */; };
 		E9C3AE9027700335003153E7 /* 2588.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8F27700335003153E7 /* 2588.swift */; };
+		E9C3AE932770D798003153E7 /* 1330.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE922770D798003153E7 /* 1330.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		E9C3AE8B276DB3C3003153E7 /* 10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10869.swift; sourceTree = "<group>"; };
 		E9C3AE8D276DDE3D003153E7 /* 10430.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10430.swift; sourceTree = "<group>"; };
 		E9C3AE8F27700335003153E7 /* 2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2588.swift; sourceTree = "<group>"; };
+		E9C3AE922770D798003153E7 /* 1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1330.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		E9140A40276632D10004C1E8 /* BaekJoonStudy */ = {
 			isa = PBXGroup;
 			children = (
+				E9C3AE912770D789003153E7 /* if문 */,
 				E9C3AE7A276A1DBC003153E7 /* 입출력과사칙연산 */,
 				E9140A41276632D10004C1E8 /* main.swift */,
 				E9140A48276632EF0004C1E8 /* Algorithms */,
@@ -110,6 +113,15 @@
 			);
 			name = "입출력과사칙연산";
 			path = "입출력과 사칙연산";
+			sourceTree = "<group>";
+		};
+		E9C3AE912770D789003153E7 /* if문 */ = {
+			isa = PBXGroup;
+			children = (
+				E9C3AE922770D798003153E7 /* 1330.swift */,
+			);
+			name = "if문";
+			path = "if문";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,6 +184,7 @@
 			files = (
 				E9C3AE80276BAE4A003153E7 /* 10171.swift in Sources */,
 				E9C3AE88276DA050003153E7 /* 10998.swift in Sources */,
+				E9C3AE932770D798003153E7 /* 1330.swift in Sources */,
 				E9C3AE8C276DB3C3003153E7 /* 10869.swift in Sources */,
 				E9C3AE7E276A213B003153E7 /* 10718.swift in Sources */,
 				E9C3AE9027700335003153E7 /* 2588.swift in Sources */,
