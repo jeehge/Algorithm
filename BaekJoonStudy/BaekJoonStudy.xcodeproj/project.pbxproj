@@ -18,6 +18,7 @@
 		E9C3AE8A276DA10A003153E7 /* 1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE89276DA10A003153E7 /* 1008.swift */; };
 		E9C3AE8C276DB3C3003153E7 /* 10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8B276DB3C3003153E7 /* 10869.swift */; };
 		E9C3AE8E276DDE3D003153E7 /* 10430.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8D276DDE3D003153E7 /* 10430.swift */; };
+		E9C3AE9027700335003153E7 /* 2588.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AE8F27700335003153E7 /* 2588.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		E9C3AE89276DA10A003153E7 /* 1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1008.swift; sourceTree = "<group>"; };
 		E9C3AE8B276DB3C3003153E7 /* 10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10869.swift; sourceTree = "<group>"; };
 		E9C3AE8D276DDE3D003153E7 /* 10430.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10430.swift; sourceTree = "<group>"; };
+		E9C3AE8F27700335003153E7 /* 2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2588.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E9C3AE89276DA10A003153E7 /* 1008.swift */,
 				E9C3AE8B276DB3C3003153E7 /* 10869.swift */,
 				E9C3AE8D276DDE3D003153E7 /* 10430.swift */,
+				E9C3AE8F27700335003153E7 /* 2588.swift */,
 			);
 			name = "입출력과사칙연산";
 			path = "입출력과 사칙연산";
@@ -171,6 +174,7 @@
 				E9C3AE88276DA050003153E7 /* 10998.swift in Sources */,
 				E9C3AE8C276DB3C3003153E7 /* 10869.swift in Sources */,
 				E9C3AE7E276A213B003153E7 /* 10718.swift in Sources */,
+				E9C3AE9027700335003153E7 /* 2588.swift in Sources */,
 				E9C3AE86276D9E0C003153E7 /* 1001.swift in Sources */,
 				E9C3AE8E276DDE3D003153E7 /* 10430.swift in Sources */,
 				E9C3AE84276D9020003153E7 /* 1000.swift in Sources */,
