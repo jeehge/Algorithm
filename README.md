@@ -1,10 +1,15 @@
 알고리즘을 하기 위해 알아둬야 할 정보
 
+
+입력 받기
+
 ```
 var input = readLine()!
 ```
 
 <br>
+
+입력 받은 값 사이 " " 있게 받기
 
 ```
 // split - ReturnType: [SubString] 
