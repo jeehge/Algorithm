@@ -1,3 +1,27 @@
+알고리즘을 하기 위해 알아둬야 할 정보
+
+```
+var input = readLine()!
+```
+
+<br>
+
+```
+// split - ReturnType: [SubString] 
+
+var nums = readLine()!.split(separator: " ").map {Int($0)!} 
+
+
+// components - ReturnType: [String] 
+
+var nums = readLine()!.components(separatedBy: " "). map {Int($0)!}
+```
+
+<br>
+
+
+
+
 # 알고리즘 스터디
 
 
