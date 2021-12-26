@@ -24,6 +24,7 @@
 		E9C3AED62776CC3B003153E7 /* 2753.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AED52776CC3B003153E7 /* 2753.swift */; };
 		E9C3AED82776CF4C003153E7 /* 14681.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AED72776CF4C003153E7 /* 14681.swift */; };
 		E9C3AEDA2776D76D003153E7 /* 2884.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AED92776D76D003153E7 /* 2884.swift */; };
+		E9C3AEDD2777F273003153E7 /* 2793.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AEDC2777F273003153E7 /* 2793.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,7 @@
 		E9C3AED52776CC3B003153E7 /* 2753.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2753.swift; sourceTree = "<group>"; };
 		E9C3AED72776CF4C003153E7 /* 14681.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14681.swift; sourceTree = "<group>"; };
 		E9C3AED92776D76D003153E7 /* 2884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2884.swift; sourceTree = "<group>"; };
+		E9C3AEDC2777F273003153E7 /* 2793.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2793.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		E9140A40276632D10004C1E8 /* BaekJoonStudy */ = {
 			isa = PBXGroup;
 			children = (
+				E9C3AEDB2777F11E003153E7 /* for문 */,
 				E9C3AE912770D789003153E7 /* if문 */,
 				E9C3AE7A276A1DBC003153E7 /* 입출력과사칙연산 */,
 				E9140A41276632D10004C1E8 /* main.swift */,
@@ -134,6 +137,15 @@
 			);
 			name = "if문";
 			path = "if문";
+			sourceTree = "<group>";
+		};
+		E9C3AEDB2777F11E003153E7 /* for문 */ = {
+			isa = PBXGroup;
+			children = (
+				E9C3AEDC2777F273003153E7 /* 2793.swift */,
+			);
+			name = "for문";
+			path = "for문";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +216,7 @@
 				E9C3AE9027700335003153E7 /* 2588.swift in Sources */,
 				E9C3AED62776CC3B003153E7 /* 2753.swift in Sources */,
 				E9C3AE86276D9E0C003153E7 /* 1001.swift in Sources */,
+				E9C3AEDD2777F273003153E7 /* 2793.swift in Sources */,
 				E9C3AE8E276DDE3D003153E7 /* 10430.swift in Sources */,
 				E9C3AED82776CF4C003153E7 /* 14681.swift in Sources */,
 				E9C3AE84276D9020003153E7 /* 1000.swift in Sources */,
