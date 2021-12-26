@@ -1,7 +1,7 @@
 알고리즘을 하기 위해 알아둬야 할 정보
 
 
-입력 받기
+입력 받기 test
 
 ```
 var input = readLine()!
