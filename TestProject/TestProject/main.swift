@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+Q2.resultPrint()
