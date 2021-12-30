@@ -10,8 +10,8 @@ import Foundation
 class solution2793: ResultPresentable {
     func resultPrint() {
         let input = Int(readLine()!)!
-        
-        for i in 1...9 {
+
+        for i in 1 ... 9 {
             print("\(input) * \(i) = \(input * i)")
         }
     }

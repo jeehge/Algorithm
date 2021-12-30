@@ -8,7 +8,7 @@
 class solution9498: ResultPresentable {
     func resultPrint() {
         let input = Int(readLine()!)!
-        
+
         if input <= 100 && input >= 90 {
             print("A")
         } else if input < 90 && input >= 80 {

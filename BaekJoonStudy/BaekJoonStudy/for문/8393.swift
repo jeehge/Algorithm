@@ -10,9 +10,9 @@ import Foundation
 class solution8393: ResultPresentable {
     func resultPrint() {
         let input = Int(readLine()!)!
-        
+
         var result: Int = 0
-        for i in 0...input {
+        for i in 0 ... input {
             result += i
         }
         print(result)

@@ -22,10 +22,10 @@ class solution2588: ResultPresentable {
 //            result += (resultPrint * Int(pow(Double(10), Double($0))))
 //        }
 //        print(result)
-        
+
         let a: Int = Int(readLine()!)!
         let b: Int = Int(readLine()!)!
-        
+
         print(a * (b % 10))
         print(a * ((b % 100) / 10))
         print(a * (b / 100))
