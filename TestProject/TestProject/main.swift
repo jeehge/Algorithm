@@ -7,4 +7,4 @@
 
 import Foundation
 
-Q2.resultPrint()
+Q3.resultPrint()
