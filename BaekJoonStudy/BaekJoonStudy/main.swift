@@ -30,4 +30,5 @@ protocol ResultPresentable: AnyObject {
 //solution8393().resultPrint()
 //solution15552().resultPrint()
 //solution2741().resultPrint()
-solution2742().resultPrint()
+//solution2742().resultPrint()
+solution11021().resultPrint()
