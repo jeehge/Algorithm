@@ -11,7 +11,7 @@ class solution10871: ResultPresentable {
     func resultPrint() {
         let input = readLine()!
         let inputArray = input.split(separator: " ")
-        
+
         let x = Int(inputArray[1])!
 
         let inputs: [Int] = readLine()!.split(separator: " ").map { Int($0)! }

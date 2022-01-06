@@ -11,7 +11,7 @@ class solution2741: ResultPresentable {
     func resultPrint() {
         let input = Int(readLine()!)!
 
-        for i in 0..<input {
+        for i in 0 ..< input {
             print("\(i + 1)")
         }
     }
