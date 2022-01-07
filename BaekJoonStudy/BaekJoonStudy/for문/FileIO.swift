@@ -34,7 +34,7 @@ final class FileIO {
             now = read()
         }
 
-        return sum * (isPositive ? 1 :- 1)
+        return sum * (isPositive ? 1 : -1)
     }
 
     @inline(__always) func readString() -> String {
