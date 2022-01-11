@@ -10,20 +10,20 @@ import Foundation
 class solution2577: ResultPresentable {
     func resultPrint() {
         var inputNumbers: [Int] = []
-        var counts: [Int] = []
+        var numbers: [Int] = []
 
         for _ in 1...3 {
             inputNumbers.append(Int(readLine()!)!)
         }
 
-        let multiplied = inputNumbers.reduce(1, *)
-        let splittedByDigit = String(describing: multiplied).compactMap { Int(String($0)) }
+        let multiplicationValue = inputNumbers.reduce(1, *)
+        let splittedByDigit = String(describing: multiplicationValue).compactMap { Int(String($0)) }
 
         for i in 0...9 {
-            let counted = splittedByDigit.filter { $0 == i }.count
-            counts.append(counted)
+            let number = splittedByDigit.filter { $0 == i }.count
+            numbers.append(number)
         }
 
-        counts.forEach { print($0) }
+        numbers.forEach { print($0) }
     }
 }
