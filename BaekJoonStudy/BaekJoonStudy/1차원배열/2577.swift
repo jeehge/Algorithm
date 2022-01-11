@@ -12,14 +12,14 @@ class solution2577: ResultPresentable {
         var inputNumbers: [Int] = []
         var numbers: [Int] = []
 
-        for _ in 1...3 {
+        for _ in 1 ... 3 {
             inputNumbers.append(Int(readLine()!)!)
         }
 
         let multiplicationValue = inputNumbers.reduce(1, *)
         let splittedByDigit = String(describing: multiplicationValue).compactMap { Int(String($0)) }
 
-        for i in 0...9 {
+        for i in 0 ... 9 {
             let number = splittedByDigit.filter { $0 == i }.count
             numbers.append(number)
         }
