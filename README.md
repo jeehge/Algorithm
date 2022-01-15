@@ -9,7 +9,7 @@ var input = readLine()!
 
 <br>
 
-입력 받은 값 사이 " " 있게 받기 👉
+입력 받은 값 사이 " " 있게 받기
 
 ```
 // split - ReturnType: [SubString] 
